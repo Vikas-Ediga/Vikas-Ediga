@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Vikas
 
-<!--
-**Vikas-Ediga/Vikas-Ediga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps & Cloud Enthusiast
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Linux
+- Git & GitHub
+- Docker
+- AWS
+- Kubernetes
+- Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- HTML
+- CSS
+- Java
+- Linux
+- Git
+- AWS
+
+📫 Connect with me
+
+LinkedIn:
+www.linkedin.com/in/vikas-n-d-3102533b6
+
+Email:
+vikasnd936@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
